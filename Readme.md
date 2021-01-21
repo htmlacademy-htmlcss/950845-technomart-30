@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Макс Д](https://up.htmlacademy.ru/htmlcss/30/user/950845).
-* Наставник: `Неизвестно`.
+* Наставник: `[Алексей Локтев]`(https://htmlacademy.ru/profile/arloktev).
 
 ---
 
